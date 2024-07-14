@@ -1,0 +1,19 @@
+h1{
+    color: brown;
+}
+
+.brandlogo{
+    margin-right: 150px;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.active{
+    color:yellowgreen
+}
+.me-auto{
+    margin-left: 20px;
+}
